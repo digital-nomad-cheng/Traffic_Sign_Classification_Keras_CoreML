@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "d3c7f7aaa419594c0f9e2a64b227203b"
+build_time: [1546931905, 750915000]
+inputs:
+  "/Users/yuhua.cheng/Opt/temp/traffic_sign/ClassifyingImagesWithVisionAndCoreML/Vision+ML Example/CGImagePropertyOrientation+UIImageOrientation.swift": [1546929942, 0]
+  "/Users/yuhua.cheng/Opt/temp/traffic_sign/ClassifyingImagesWithVisionAndCoreML/Vision+ML Example/ImageClassificationViewController.swift": [1546931905, 0]
+  "/Users/yuhua.cheng/Opt/temp/traffic_sign/ClassifyingImagesWithVisionAndCoreML/Vision+ML Example/AppDelegate.swift": [1546929942, 0]
+  "/Users/yuhua.cheng/Opt/temp/traffic_sign/ClassifyingImagesWithVisionAndCoreML/build/Vision+ML Example.build/Debug-iphoneos/Vision+ML Example.build/DerivedSources/CoreMLGenerated/traffic_sign_with_class_weights/traffic_sign_with_class_weights.swift": [1546930114, 0]
